@@ -8,3 +8,12 @@ I like the Java's Nimbus look and feel. So, the Movie Theater app will be by def
 And, here is the screenshot of the basic Frame with this particular look-and-feel (NimbusFrame.java).
 
 ![screenshot](nimbusframe.png)
+
+# Two panels for button action
+
+In this screenshot below, you can see a list of buttons that play a role of movie sessions later to be changed where
+the user clicks one of the button, the right panel in this time just does single action, which is changing the label color
+but, in future, based on which button clicked, right panel will display the movie theater seats alignment so that
+user can pick a seat for the visitor
+
+![screenshot](twopanelaction.png)

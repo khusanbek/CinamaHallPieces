@@ -17,3 +17,10 @@ but, in future, based on which button clicked, right panel will display the movi
 user can pick a seat for the visitor
 
 ![screenshot](twopanelaction.png)
+
+# Movie Theatre general layout of the window
+
+The screenshot below, shows general layout of the movie theatre application. Left side will list movies, middle allows to pick,
+and right side for receipt info.
+
+![screenshot](movie-theatre.png)

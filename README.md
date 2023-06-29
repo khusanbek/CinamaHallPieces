@@ -24,3 +24,10 @@ The screenshot below, shows general layout of the movie theatre application. Lef
 and right side for receipt info.
 
 ![screenshot](movie-theatre.png)
+
+# Main Window layout
+
+This JFrame shows the layout of main window of the movie theatre application. The top compartment will hold the session to pick 
+form combo box. Middle to pick seat, and bottom has save to save picked seat and receipt to display price etc info.
+
+![screenshot](main-window.png)
